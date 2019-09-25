@@ -1,5 +1,7 @@
 {
   "Species": [
-    { "Id" : 1, "Name" : "Elephant" }
+    { "Id" : 1, "Name" : "Elephant" },
+    { "Id" : 2, "Name" : "Turtle" },
+    { "Id" : 3, "Name" : "Snake" }
   ]
 }
