@@ -2,19 +2,19 @@
   "species": [
     { 
       "id" : 1, 
-      "name" : "Elephant", 
+      "name" : "Bird", 
       "imagelink": "https://cdn.pixabay.com/photo/2015/05/26/23/52/technology-785742_960_720.jpg",
       "updated_date": "100000"
     },
     { 
       "id" : 2, 
-      "name" : "Turtle", 
+      "name" : "Snake", 
       "imagelink": "https://image.shutterstock.com/image-photo/digital-crime-by-anonymous-hacker-600w-1095422036.jpg",
       "updated_date": "150000"
     },
     { 
       "id" : 3, 
-      "name" : "Snake", 
+      "name" : "Shark", 
       "imagelink": "https://image.shutterstock.com/image-photo/cyber-security-firewall-privacy-concept-600w-413855248.jpg",
       "updated_date": "125000"
     }
