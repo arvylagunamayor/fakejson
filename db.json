@@ -1,149 +1,23 @@
-{
-  1: [
-    {
-      "name": "Central Office",
-      "designation": null,
-      "email": null,
-      "telno": [
-        "755-3330"
-      ],
-      "address": "Philippines"
-    },
-    {
-      "name": "Bmb",
-      "designation": null,
-      "email": [
-        "bmb@bmb.gov.ph",
-        "wrd@bmb.gov.ph"
-      ],
-      "telno": [
-        "925-8953"
-      ],
-      "address": "Philippines"
-    }
-  ],
-  2: [
-    {
-      "region": "CAR Region",
-      "region_alias": "Cordillera Administrative Region",
-      "provinces": [
-        {
-          "province": "Apayao",
-          "city": null,
-          "contacts": [
-            {
-              "name": "Atty. Romeo G. Bravo",
-              "designation": "Penro, Apayao",
-              "email": null,
-              "telno": null,
-              "address": "San Isidro, Luna Apayao,CAR Region - Cordillera Administrative Region,Philippines"
-            },
-            {
-              "name": "Domingo O. Enciso, Jr.",
-              "designation": "Oic Cenro, Calanasan",
-              "email": null,
-              "telno": null,
-              "address": "Sta. Felomina, Calanasan Apayao,CAR Region - Cordillera Administrative Region,Philippines"
-            },
-            {
-              "name": "Raul T. Castro",
-              "designation": "Oic Cenro, Conner",
-              "email": null,
-              "telno": null,
-              "address": "Brgy. Butuan, Conner Apayao,CAR Region - Cordillera Administrative Region,Philippines"
-            }
-          ]
-        }
-      ],
-      "cities": null,
-      "contacts": [
-        {
-          "name": "Ralph C. Pablo",
-          "designation": "Regional Executive Director",
-          "email": [
-            "denr.car@yahoo.com"
-          ],
-          "telno": [
-            "(074) 442-4531"
-          ],
-          "address": "CAR Region - Cordillera Administrative Region,Philippines"
-        }
-      ]
-    },
-    {
-      "region": "NCR Region",
-      "region_alias": "Metro Manila",
-      "provinces": null,
-      "cities": [
-        {
-          "province": null,
-          "city": "Caloocan",
-          "contacts": []
-        }
-      ],
-      "contacts": [
-        {
-          "name": "Jacqueline A. Caancan",
-          "designation": "Regional Executive Director",
-          "email": null,
-          "telno": [
-            "(02) 434-0119"
-          ],
-          "address": "National Ecology Center, East Avenue Quezon City,NCR Region - Metro Manila,Philippines"
-        }
-      ]
-    },
-    {
-      "region": "Region 1",
-      "region_alias": "Ilocos Region",
-      "provinces": [
-        {
-          "province": "Ilocos Norte",
-          "city": null,
-          "contacts": [
-            {
-              "name": "Victor C. Dabalos",
-              "designation": "Oic Penro, Ilocos Norte",
-              "email": null,
-              "telno": [
-                "(077) 772-0254"
-              ],
-              "address": "Pfdpin Bldg., Giron St. Cor. Castro Avenue, Laoag City Ilocos Norte,Region 1 - Ilocos Region,Philippines"
-            },
-            {
-              "name": "Florencio P. Soliven, Jr.",
-              "designation": "Cenro, Bangui",
-              "email": null,
-              "telno": null,
-              "address": "Brgy. Manayon, Bangui Ilocos Norte,Region 1 - Ilocos Region,Philippines"
-            },
-            {
-              "name": "Noemi A. Ruadap",
-              "designation": "Oic Cenro, Laoag City",
-              "email": null,
-              "telno": [
-                "(077) 772-0970"
-              ],
-              "address": "Brgy. Barrit, Laoag City Ilocos Norte,Region 1 - Ilocos Region,Philippines"
-            }
-          ]
-        }
-      ],
-      "cities": null,
-      "contacts": [
-        {
-          "name": "Carlito M. Tuballa",
-          "designation": "Oic, Regional Executive Director",
-          "email": [
-            "r1@denr.gov.ph",
-            "r1r@denr.gov.ph"
-          ],
-          "telno": [
-            "(072) 242-0704"
-          ],
-          "address": "Government Center, Sevilla, City Of San Fernando La Union,Region 1 - Ilocos Region,Philippines"
-        }
-      ]
-    }
-  ]
-}
+	{
+	"totalize_api_method":
+		[
+			{"id": 1,
+			 "branch_code": "AAA",
+			 "datetime_from": "2021-01-01 00:00:00",
+			 "datetime_to": "2021-01-31 00:00:00",
+			 "fields": [
+				 {"total_fee": 100, 
+				  "total_principal" : 10000}
+				]
+			},
+			{"id": 2,
+			 "branch_code": "AAA",
+			 "datetime_from": "2021-01-01 00:00:00",
+			 "datetime_to": "2021-01-31 00:00:00",
+			 "fields": [
+				 {"total_fee": 200, 
+				  "total_principal" : 20000}
+				]
+			}
+		]
+	}
