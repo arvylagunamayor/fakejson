@@ -1,5 +1,5 @@
 {
-  "1": [
+  1: [
     {
       "name": "Central Office",
       "designation": null,
@@ -22,7 +22,7 @@
       "address": "Philippines"
     }
   ],
-  "2": [
+  2: [
     {
       "region": "CAR Region",
       "region_alias": "Cordillera Administrative Region",
